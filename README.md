@@ -16,7 +16,7 @@ The application allows manual annotation and segmentation in radiological images
 ## Screenshots
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/kawthar-bensalah/Let_Us_Code/master/screen6.PNG" width="270" height="167" /> <img src="https://raw.githubusercontent.com/kawthar-bensalah/Let_Us_Code/master/screen7.PNG" width="270" height="167" /> <img src="https://raw.githubusercontent.com/kawthar-bensalah/Let_Us_Code/master/screen8.PNG" width="270" height="167" />
+<img src="https://github.com/kawthar-bensalah/DICOM-Viewer/blob/d2869dcfa8301283ce4d40f3c857dc531a9d111f/image-1.png" width="270" height="167" /> <img src="https://github.com/kawthar-bensalah/DICOM-Viewer/blob/d2869dcfa8301283ce4d40f3c857dc531a9d111f/image-3.png" width="270" height="167" /> <img src="https://github.com/kawthar-bensalah/DICOM-Viewer/blob/d2869dcfa8301283ce4d40f3c857dc531a9d111f/image-5.png" width="270" height="167" />
  </p>
  
 
