@@ -1,8 +1,5 @@
 # DICOM-Viewer
 web based dicom viewer and annotation tool for CT Scans.
-# DICOM VIEWER
-
------------------------------------------------------------------------------------------------------------------------------
 
 ## Description
 
